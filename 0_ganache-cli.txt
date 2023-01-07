@@ -1,0 +1,49 @@
+ganache v7.6.0 (@ganache/cli: 0.7.0, @ganache/core: 0.7.0)
+Starting RPC server
+
+Available Accounts
+==================
+(0) 0xf5FCD93a14025E8280f8C890056f6Eb928D9bC09 (1000 ETH)
+(1) 0xDAC39bcb88De48BD46BEF16246fB476884a3136D (1000 ETH)
+(2) 0xAE97C726C71657fbC8370489D70fA69019FbdC85 (1000 ETH)
+(3) 0x7D926a8f06519A9f1A6809d0e26E0cbDAe1a250A (1000 ETH)
+(4) 0xbc05f3d83725303E7CD60717F470AaB8700748A6 (1000 ETH)
+(5) 0x04F021ce0ed40a5ab82ebb3d5161397861181EDB (1000 ETH)
+(6) 0x07b82564949E21d02FCDf34462DCb1Ba0bE921eC (1000 ETH)
+(7) 0x47B7A6C0c57493e84d9C922b53cF7CD7E56F3B75 (1000 ETH)
+(8) 0xB4DE8Dc6878c934daa27e0815c79e2371935BC65 (1000 ETH)
+(9) 0x8AEE385E3C58173b78d47552acB5b9D67D9c635C (1000 ETH)
+
+Private Keys
+==================
+(0) 0xfd877603e63e8367ffddfd630d3e04c9ed89590f8fa0fc48631d687e3fdb9a86
+(1) 0xe4ab5f2f23d2e9fd7593ce1d905b19d756f890c7bb00597dbdaacdedfe43d3c4
+(2) 0x794164cb25ccfcecdc45f42ba1517d743aaf26a99c2c66b6ac3ab629c28be9b1
+(3) 0xdb7b112c3497eb0413b5c3110b72cbf718128d9a609ddaaf8cc6cc1d83119cad
+(4) 0x83111d11eae292d086e13f17b3487d066fec670705e7f39c3e4b922f6078a5f2
+(5) 0x2b21b60c6a6b3d4d0244be150098de41c5cd3b7b9cc06bfe866cfe6cadd10253
+(6) 0x631a0f290a6c3afd7db1eb8f35ff469ee2827bd3425309e15922d11bc1340533
+(7) 0x27906808ec738ace57d9afdec9ae60eeadda726399d4a42ea653898fa08fccba
+(8) 0x539cd2572e4b0f32bf6f51ba64b56feda9ae4ecad0a10ab5e63745361de73dcf
+(9) 0x12a8d67819b6586f0fb3f8a5ba4dda2be80665af8be8d8e85df67ad75cac06fd
+
+HD Wallet
+==================
+Mnemonic:      woman assault home vault someone robot tray immense tennis usual visual joy
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Default Gas Price
+==================
+2000000000
+
+BlockGas Limit
+==================
+30000000
+
+Call Gas Limit
+==================
+50000000
+
+Chain Id
+==================
+1337
